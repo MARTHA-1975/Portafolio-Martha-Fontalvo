@@ -4,6 +4,7 @@
 
 
 
+
 👩‍💻 **Profesional en transición hacia la Ciberseguridad**  
 📚 Certificada por Google en IA y Seguridad  
 🎓 Experiencia en administración y proyectos educativos digitales  
