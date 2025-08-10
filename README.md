@@ -1,54 +1,81 @@
 # 🌟 Portafolio Profesional de Martha Lucía Fontalvo Guzmán
 
-## 👩‍💻 Martha Lucía Fontalvo Guzmán
+👩‍💻 **Profesional en transición hacia la Ciberseguridad**  
+📚 Certificada por Google en IA y Seguridad  
+🎓 Experiencia en administración y proyectos educativos digitales  
+🌍 Tecnología con propósito social, accesible y educativa
 
-**En transición a Ciberseguridad | Certificada por Google en IA y Seguridad | Experiencia en Administración y Proyectos Educativos Digitales**
+---
 
-Bienvenida/o a mi portafolio profesional. Aquí encontrarás mi hoja de vida, proyectos personales como *EcoCifrado*, y certificaciones que respaldan mi formación en tecnología. Mi propósito es combinar la educación digital, la seguridad informática y la accesibilidad para crear soluciones con impacto social.
+## ✨ Bienvenida
 
-Soy una profesional en transición hacia la ciberseguridad, con experiencia en proyectos educativos digitales y enfoque en tecnología con propósito social. Este portafolio documenta mi aprendizaje técnico, certificaciones y proyectos como *EcoCifrado* y *EmpleoJusto-AI*.
+Gracias por visitar mi portafolio profesional. Aquí encontrarás:
+
+- 📄 Mi hoja de vida (en Markdown y PDF)
+- 🔐 Proyectos personales como *EcoCifrado* y *EmpleoJusto-AI*
+- 📜 Certificaciones que respaldan mi formación técnica
+- 🤝 Espacios para colaborar y compartir ideas
+
+Mi propósito es combinar **educación digital**, **seguridad informática** y **accesibilidad** para crear soluciones con impacto social.
 
 ---
 
 ## 💬 Valores que guían mi trabajo
-- Tecnología con propósito social
-- Educación digital inclusiva
-- Seguridad accesible para todos
+
+- 🌱 Tecnología con propósito social  
+- 🧠 Educación digital inclusiva  
+- 🔐 Seguridad accesible para todos  
 
 ---
 
 ## 📑 Contenido
-- [Hoja de Vida](#hoja-de-vida)
-- [Proyectos Destacados](#proyectos-destacados)
-- [Certificaciones](#certificaciones)
-- [Contacto](#contacto)
+
+- [📄 Hoja de Vida](#hoja-de-vida)  
+- [🚀 Proyectos Destacados](#proyectos-destacados)  
+- [📜 Certificaciones](#certificaciones)  
+- [📫 Contacto](#contacto)  
 
 ---
 
 ## 📄 Hoja de Vida
-- [Versión Markdown](hoja_de_vida.md)
-- [Versión PDF visual](https://github.com/MARTHA-1975/Portafolio-Martha-Fontalvo/blob/main/hoja_de_vida.pdf)
+
+- 📘 [Versión Markdown](https://github.com/MARTHA-1975/Portafolio-Martha-Fontalvo/blob/main/hoja-de-vida.md)  
+- 📎 [Versión PDF visual](https://github.com/MARTHA-1975/Portafolio-Martha-Fontalvo/blob/main/hoja-de-vida.pdf)
 
 ---
 
-## 🔐 Proyecto destacado: EcoCifrado
+## 🚀 Proyectos Destacados
 
-Aplicación educativa desarrollada en Python para enseñar buenas prácticas de seguridad digital a niños y adultos mayores. Combina accesibilidad, ecología y ciberseguridad.  
-Tecnologías utilizadas: Python, documentación Markdown, simulaciones de tráfico con Suricata.
+### 🔐 [EcoCifrado](https://github.com/MARTHA-1975/EcoCifrado)
+
+Aplicación educativa desarrollada en Python para enseñar buenas prácticas de seguridad digital a niños y adultos mayores.  
+Combina accesibilidad, ecología y ciberseguridad.
+
+**Tecnologías utilizadas:**  
+Python · Markdown · Suricata · Simulación de tráfico · Diseño accesible
+
+---
+
+### 🤖 [EmpleoJusto-AI](https://github.com/MARTHA-1975/EmpleoJusto-AI)
+
+IA para oportunidades laborales inclusivas, enfocada en accesibilidad y equidad digital.
 
 ---
 
 ## 📜 Certificaciones
-- Google Cybersecurity Certificate – Coursera *(Febrero 2025)*
-- Fundamentos de Inteligencia Artificial – Google / Coursera *(2024)*
+
+- 🛡️ **Google Cybersecurity Certificate** – Coursera (Febrero 2025)  
+- 🤖 **Fundamentos de Inteligencia Artificial** – Google / Coursera (2024)
 
 ---
 
 ## 📫 Contacto
-📄 [Versión PDF de Hoja de Vida](https://github.com/MARTHA-1975/Portafolio-Martha-Fontalvo/blob/main/hoja_de_vida.pdf)  
-🔗 [LinkedIn](https://linkedin.com/in/martha-lucia-fontalvo-guzman-a9b3bba2)
+
+- 📎 [Versión PDF de Hoja de Vida](https://github.com/MARTHA-1975/Portafolio-Martha-Fontalvo/blob/main/hoja-de-vida.pdf)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/martha-lucia-fontalvo-guzman-a9b3bba2)
 
 ---
 
-> Si te interesa colaborar, compartir ideas o conocer más sobre mis proyectos, ¡no dudes en contactarme!
+> “La tecnología con propósito transforma realidades. Documentar es sembrar conocimiento.”  
+> — *Martha Lucía Fontalvo Guzmán*
 
