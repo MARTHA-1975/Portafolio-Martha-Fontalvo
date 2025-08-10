@@ -1,5 +1,8 @@
 # 🌟 Portafolio Profesional de Martha Lucía Fontalvo Guzmán
 
+![Ciberseguridad con propósito social](./assets/cabecera-portafolio.png)
+
+
 👩‍💻 **Profesional en transición hacia la Ciberseguridad**  
 📚 Certificada por Google en IA y Seguridad  
 🎓 Experiencia en administración y proyectos educativos digitales  
