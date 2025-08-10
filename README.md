@@ -1,6 +1,7 @@
 # 🌟 Portafolio Profesional de Martha Lucía Fontalvo Guzmán
 
-![Ciberseguridad con propósito social](./assets/Copilot_20250810_112144.png)
+![Ciberseguridad con propósito social](./cabecera-portafolio.png)
+
 
 
 👩‍💻 **Profesional en transición hacia la Ciberseguridad**  
